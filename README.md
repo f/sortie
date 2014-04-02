@@ -4,4 +4,4 @@ sortie
 real life sorting for javascript
 
 ***
-name by [@osmanyuksel](http://github.com/yuxel)
+name by [@yuxel](http://github.com/yuxel)
